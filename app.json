@@ -48,7 +48,7 @@
     },
 
     "DEFAULT_SESSION": {
-      "description": "Enter session string if you want YOUR USERS not to be forced login and can do things via invite_link",
+      "description": "BQG2q38AWfe_zqoxO4CBjXAfcaHb1W54zYt_lQdqHBCknnIHGIh-eoNr_MGjJ8dPOgqPsmjua1UgCv8p1GpXNyrdkLtmhIo0ZW4sobjFEQpiONST7O9rql69D3TXdgPR3VDlMX637ngWmUdZjKN--R0vPN7aN7ZRysf9ICUebTdZ9pQQW8WQdfLEaTXGAjUzgxiHG-gZ-6CgHHjrYrLyqRnJUkmxsI9i-DYLAF6x1ZHsFQRNhjuNUS-Wk-x9njxrl7ABHw-v6XBfPAOWCimsdU8F8JQ-gncsEhKqh4R-_cq7oCRzlricHuwElFZaCPP-icQQbxWSbBbUYn-C6y5fOYrlEG6EigAAAABFs4lhAA",
       "value": "",
       "required": false
     },
